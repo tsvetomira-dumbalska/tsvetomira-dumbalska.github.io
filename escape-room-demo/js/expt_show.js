@@ -28,6 +28,7 @@ function showProgress(time) {
 }
 
 function showHelpPopup() {
+    hideLevelPopup();
     board.help.popupRect.show();
     board.help.popupText.show();
     board.help.closeBtn.show();
@@ -37,6 +38,7 @@ function showHelpPopup() {
 }
 
 function showLevelPopup() {
+    hideHelpPopup();
     board.level.popupRect.show();
     board.level.popupText.show();
     board.level.closeBtn.show();
