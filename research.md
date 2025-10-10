@@ -36,7 +36,7 @@ My publications cluster around 4 main themes:
   <summary>
  2. <b> Representation learning. </b> How does the structure and order of learning opportunities –termed curricula in education and machine learning– affect learning outcomes and neural representations? </summary> 
   <br>
-  My research has charted how balancing conceptual and strategic complexity during training can lead to accelerated and more successful learning (Dumbalska et al., 2023). As part of this line of work, I have collected large-scale data from >15,000 participants world-wide charting learning progression on a gamified task (<a href="https://atomsrivet.github.io/roomworld/index.html">demo</a>).
+  My research has charted how balancing conceptual and strategic complexity during training can lead to accelerated and more successful learning (Dumbalska et al., 2023). As part of this line of work, I have collected large-scale data from >15,000 participants world-wide charting learning progression on a gamified task (<a href="https://atomsrivet.github.io/escape-room-demo/index.html">demo</a>).
   <br> 
   <ul>
   <li><b>Dumbalska, T.</b>, Bhatti, A., Ali, I., & Summerfield, C. (2023). How do humans learn concepts and strategies? Computational Cognitive Neuroscience. (<a href="https://2023.ccneuro.org/proceedings/0000602.pdf?s=W&pn=1520">Conference Proceedings</a>). </li>
