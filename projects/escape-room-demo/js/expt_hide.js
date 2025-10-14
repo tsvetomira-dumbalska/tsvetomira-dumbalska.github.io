@@ -41,6 +41,9 @@ function hideLevelPopup() {
     board.level.popupRect.hide();
     board.level.popupText.hide();
     board.level.closeBtn.hide();
+    board.level.popupRect.toBack();
+    board.level.popupText.toBack();
+    board.level.closeBtn.toBack();
 
     // Remove dropdown if present
     var dropdown = document.getElementById('levelDropdown');

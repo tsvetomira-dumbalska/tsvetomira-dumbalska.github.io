@@ -42,6 +42,9 @@ function showLevelPopup() {
     board.level.popupRect.show();
     board.level.popupText.show();
     board.level.closeBtn.show();
+    board.level.popupRect.toFront();
+    board.level.popupText.toFront();
+    board.level.closeBtn.toFront();
 
     // Create dropdown if not already present
     if (!document.getElementById('levelDropdown')) {
