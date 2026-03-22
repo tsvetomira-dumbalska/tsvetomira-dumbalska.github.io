@@ -39,8 +39,9 @@ My publications cluster around 4 main themes:
   My research has charted how balancing conceptual and strategic complexity during training can lead to accelerated and more successful learning (Dumbalska et al., 2023). As part of this line of work, I have collected large-scale data from >15,000 participants world-wide charting learning progression on a gamified task (<a href="/projects/escape-room-demo/index.html">demo</a>).
   <br> 
   <ul>
-  <li><b>Dumbalska, T.</b>, Bhatti, A., Ali, I., & Summerfield, C. (2023). How do humans learn concepts and strategies? Computational Cognitive Neuroscience. (<a href="https://2023.ccneuro.org/proceedings/0000602.pdf?s=W&pn=1520">Conference Proceedings</a>). </li>
+  <li><b>Dumbalska, T.</b>, Yuen, K., Bhatti, A., Ali, I., Zaneva, M., Sandbrink, K., & Summerfield, C. (2025). Curriculum learning for complex tasks. (<a href="https://osf.io/preprints/psyarxiv/qd8w4_v1">Preprint</a>). </li>
   <ul><li>Here, we show that organizing learning opportunities such that participants can practice new concepts in increasingly complex mental operations boosts learning progress and outcomes.</li></ul><br>
+  <li><b>Dumbalska, T.</b>, Bhatti, A., Ali, I., & Summerfield, C. (2023). How do humans learn concepts and strategies? Computational Cognitive Neuroscience. (<a href="https://2023.ccneuro.org/proceedings/0000602.pdf?s=W&pn=1520">Conference Proceedings</a>). </li>
   <li>Nelli, S., Braun, L., <b>Dumbalska, T.</b>, Saxe, A., & Summerfield, C. (2023). Neural knowledge assembly in humans and neural networks. Neuron, 111(9), 1504-1516. (<a href="https://www.cell.com/neuron/fulltext/S0896-6273%2823%2900118-6">Open access link</a>)</li><br>
   <li>Flesch, T., Juechems, K., <b>Dumbalska, T.</b>, Saxe, A., & Summerfield, C. (2022). Orthogonal representations for robust context-dependent task performance in brains and neural networks. Neuron, 110(7), 1258-1270. (<a href="https://www.cell.com/neuron/fulltext/S0896-6273(22)00005-8">Open access link</a>) </li>
   </ul>
@@ -49,10 +50,11 @@ My publications cluster around 4 main themes:
  <summary>
  3. <b> Value alignment. </b> How do we ensure that artificial agents' objectives are aligned with human values? </summary>
 <br>
-  My current research investigates value alignment in open source reward models and the potential influence of human biases on alignment across standard RLHF settings and human-AI interactions.
+  A strand of my current work investigates value alignment in open source reward models and the potential influence of human biases on alignment across standard RLHF settings and human-AI interactions.
  <br>
  <ul>
-  <li>Christian, B., Kirk, H.R., Thompson, J.A.F., Summerfield, C., <b>Dumbalska, T.</b> (In press). Reward Model Interpretability Via Optimal and Pessimal Tokens. <i>In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025).</i> </li> </ul>
+  <li>Christian, B., Thompson, J.A.F., Elle, Adam, V., Kirk, H.R., Summerfield, C., & <b>Dumbalska, T.</b>  (2026).Reward Models Inherit Value Biases from Pretraining. International Conference on Learning Representations (ICLR). (<a href="https://arxiv.org/abs/2601.20838">Preprint</a>)</li>
+  <li>Christian, B., Kirk, H.R., Thompson, J.A.F., Summerfield, C., <b>Dumbalska, T.</b> (In press). Reward Model Interpretability Via Optimal and Pessimal Tokens. <i>In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025). </i> (<a href="https://dl.acm.org/doi/10.1145/3715275.3732068">Open access link</a>) </li> </ul>
  </details></p>
  <p><details>
  <summary>
@@ -60,6 +62,7 @@ My publications cluster around 4 main themes:
   I am actively involved in the open science movement and initiatives to increase the transparency and reproducibility of research results. I have contributed to two pieces of written evidence for policy on Reproducibility and Research Integrity for the UK Government (entries 20210930 and EGYJ106500), several open science publications and computational reproducibility projects.
   <br> 
   <ul>
+  <li>Brodeur, A., …, Dumbalska, T., … et al. (2026). Computational Reproducibility and Robustness of Empirical Economics and Political Science Research Between 2022 and 2023. Nature (in press). (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12270267/">Open access link</a>)</li><br>
   <li>Röseler, L., ... <b>Dumbalska, T.</b>, et al. (2024). The replication database: documenting the replicability of psychological science. Journal of Open Psychology Data, 12(8), 1-23. (<a href="https://eprints.bbk.ac.uk/id/eprint/54253/1/jopd.pdf">Submitted version</a>)</li><br>
   <li>Parsons, S.,... <b>Dumbalska, T.</b>, et al. (2022). A Community-Sourced Glossary of Open Scholarship Terms. Nature Human Behaviour. (<a href="https://nantes-universite.hal.science/hal-03596508/document">Submitted version</a>)</li><br>
   <li>Evans, T.,… & <b>Dumbalska, T.</b>, et al. (2021). A network of change: Three priorities requiring united action on research integrity. BMC Research Notes. (<a href="https://link.springer.com/article/10.1186/s13104-022-06026-y">Open access link</a>)</li>
