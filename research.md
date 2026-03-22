@@ -41,7 +41,7 @@ My publications cluster around 4 main themes:
   <ul>
   <li><b>Dumbalska, T.</b>, Yuen, K., Bhatti, A., Ali, I., Zaneva, M., Sandbrink, K., & Summerfield, C. (2025). Curriculum learning for complex tasks. (<a href="https://osf.io/preprints/psyarxiv/qd8w4_v1">Preprint</a>). </li>
   <ul><li>Here, we show that organizing learning opportunities such that participants can practice new concepts in increasingly complex mental operations boosts learning progress and outcomes.</li></ul><br>
-  <li><b>Dumbalska, T.</b>, Bhatti, A., Ali, I., & Summerfield, C. (2023). How do humans learn concepts and strategies? Computational Cognitive Neuroscience. (<a href="https://2023.ccneuro.org/proceedings/0000602.pdf?s=W&pn=1520">Conference Proceedings</a>). </li>
+  <li><b>Dumbalska, T.</b>, Bhatti, A., Ali, I., & Summerfield, C. (2023). How do humans learn concepts and strategies? Computational Cognitive Neuroscience. (<a href="https://2023.ccneuro.org/proceedings/0000602.pdf?s=W&pn=1520">Conference Proceedings</a>). </li><br>
   <li>Nelli, S., Braun, L., <b>Dumbalska, T.</b>, Saxe, A., & Summerfield, C. (2023). Neural knowledge assembly in humans and neural networks. Neuron, 111(9), 1504-1516. (<a href="https://www.cell.com/neuron/fulltext/S0896-6273%2823%2900118-6">Open access link</a>)</li><br>
   <li>Flesch, T., Juechems, K., <b>Dumbalska, T.</b>, Saxe, A., & Summerfield, C. (2022). Orthogonal representations for robust context-dependent task performance in brains and neural networks. Neuron, 110(7), 1258-1270. (<a href="https://www.cell.com/neuron/fulltext/S0896-6273(22)00005-8">Open access link</a>) </li>
   </ul>
@@ -53,7 +53,7 @@ My publications cluster around 4 main themes:
   A strand of my current work investigates value alignment in open source reward models and the potential influence of human biases on alignment across standard RLHF settings and human-AI interactions.
  <br>
  <ul>
-  <li>Christian, B., Thompson, J.A.F., Elle, Adam, V., Kirk, H.R., Summerfield, C., & <b>Dumbalska, T.</b>  (2026).Reward Models Inherit Value Biases from Pretraining. International Conference on Learning Representations (ICLR). (<a href="https://arxiv.org/abs/2601.20838">Preprint</a>)</li>
+  <li>Christian, B., Thompson, J.A.F., Elle, Adam, V., Kirk, H.R., Summerfield, C., & <b>Dumbalska, T.</b>  (2026).Reward Models Inherit Value Biases from Pretraining. International Conference on Learning Representations (ICLR). (<a href="https://arxiv.org/abs/2601.20838">Preprint</a>)</li><br>
   <li>Christian, B., Kirk, H.R., Thompson, J.A.F., Summerfield, C., <b>Dumbalska, T.</b> (In press). Reward Model Interpretability Via Optimal and Pessimal Tokens. <i>In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025). </i> (<a href="https://dl.acm.org/doi/10.1145/3715275.3732068">Open access link</a>) </li> </ul>
  </details></p>
  <p><details>
