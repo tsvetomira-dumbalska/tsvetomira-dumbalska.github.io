@@ -9,63 +9,66 @@ layout: default
 
 ## Research 
 
-My research investigates how the structure and order of information affects how humans and artificial neural networks learn about the world and make decisions. My work combines big data from experiments in gamified environments and computational modelling to shed light on the information processing mechanisms in humans and artificial neural networks. 
+How does the context we find ourselves in shape what we perceive, choose, learn and want? This question recurs across the different themes of my research, from biases in decision making and the design of learning curricula to how we interact with the digital world, including AI.
 
-My publications cluster around 4 main themes:
+Throughout, I combine large-scale experiments with computational modeling and machine learning. I am committed to open and reproducible science, sharing data and code and contributing to replication and reproducibility efforts. You can find a complete list of my publications on <a href="https://scholar.google.com/citations?user=GOZWbKAAAAAJ&hl=en">Google Scholar</a> and a selection of highlights under the headings below.
+
 
 <p>
 <details>
   <summary>
- 1. <b> Context dependence in decision making. </b> How does contextual information affect perceptual and economic decisions? </summary> 
+ <b> Biases in decision making. </b> How does the context in which we make a decision affect our choice? </summary> 
  <br>
-  My work has provided evidence on the computational mechanisms underlying context-dependent judgments, demonstrating that the influence perceptual distractors and decoy consumer products may arise due to a shared, efficient computational principle – neural adaptation (Dumbalska et al., 2022; Dumbalska et al., 2020), and that reference effects owe to changes in both how we experience (perception) and how we evaluate incoming information (judgment; Dumbalska & Smithson 2024). For this line of work, I received two research prizes: The Humphreys Prize for Best Research Project (University of Oxford) and the Pembroke College Senior Studentship. 
+  My work has provided evidence on the computational mechanisms underlying context-dependent judgments, demonstrating that the influence of perceptual distractors and decoy consumer products may arise due to a shared, efficient computational principle – neural adaptation (Dumbalska et al., 2022; Dumbalska et al., 2020), and that reference effects owe to changes in both how we experience (perception) and how we evaluate incoming information (judgment; Dumbalska & Smithson, 2024).
   <br>
-  <ul><li><b>Dumbalska, T.</b>, & Smithson, H. E. (2024). Reference dependence arises due to contextual shifts in both perception and judgment. (<a href="https://osf.io/preprints/psyarxiv/qpy2w">Preprint</a>).</li>
-   <ul><li>Here, we develop a method to shed light on the computational origins of reference dependence that have been subject to half a century of controversy. Our work combines psychophysics with computational modelling to arbitrate between influences on the level of perception, judgment and action. </li></ul><br>
-  <li><b>Dumbalska, T.</b>, Rudzka, K., Smithson, H. E., & Summerfield, C. (2022). How do (perceptual) distracters distract?. PLOS Computational Biology, 18(10), e1010609. (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010609">Open access link</a>) </li>
-   <ul><li>Here, we provide evidence that perceptual distractors modulate choices in a way that depends on their similarity to target stimuli (interaction effect), as opposed to wielding an independent influence on choices (independent effect). We accounted for these effects in an efficient coding framework, appealing to neural normalization, via computational modelling.</li></ul><br>
-  <li><b>Dumbalska, T.</b>, Li, V., Tsetsos, K., & Summerfield, C. (2020). A map of decoy influence in human multialternative choice. Proceedings of the National Academy of Sciences, 117(40), 25169-25178. (<a href="https://www.pnas.org/doi/full/10.1073/pnas.2005058117">Open access link</a>)</li>
-   <ul><li>Here, we took a novel approach to studying decoy effects: rather than sampling a subset of stereotyped values (as in existing studies), we charted the full “decoy influence map”, by exhaustively measuring the influence of a decoy stimulus D(i,j) with attributes i and j on choices between two choice targets.</li></ul><br>
-  <li>Summerfield, C., & <b>Dumbalska, T.</b> (2020). How does value distract?. Nature Human Behaviour, 4(6), 564-564. (<a href="/assets/Summerfield&Dumbalska_2020.pdf">PDF</a>)</li>
-   <ul><li>In this comment, we contextualize new results on value distraction by Gluth and colleagues in existing evidence and theory on value normalization and efficient neural processing. </li></ul><br>
-  <li>Zaneva, M., & <b>Dumbalska, T.</b> (2020). Green Nudges: Applying Behavioral Economics to the Fight Against Climate Change. Quarterly PsyPAG, 116 , 27-31. (<a href="/assets/Zaneva&Dumbalska_2020.pdf">PDF</a>)</li>
-   <ul><li>In this perspective piece, we propose a framework for considering intervention targets for behavioural scientists aiming to prompt new (and support existing) environmentally-friendly behaviours and review the relevant evidence base.  </li></ul>
+    <ul><li><b>Dumbalska, T.</b>, & Smithson, H. E. (2024). Reference dependence arises due to contextual shifts in both perception and judgment. Under review at Communications Psychology. (<a href="https://osf.io/preprints/psyarxiv/qpy2w">Preprint</a>)</li> <br>
+  <li><b>Dumbalska, T.</b>, Rudzka, K., Smithson, H. E., & Summerfield, C. (2022). How do (perceptual) distracters distract? PLOS Computational Biology, 18(10), e1010609. (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010609">Link</a>) </li> <br>
+  <li><b>Dumbalska, T.</b>, Li, V., Tsetsos, K., & Summerfield, C. (2020). A map of decoy influence in human multialternative choice. Proceedings of the National Academy of Sciences, 117(40), 25169-25178. (<a href="https://www.pnas.org/doi/full/10.1073/pnas.2005058117">Link</a>)</li>
    </ul>
  </details></p>
  <p><details>
   <summary>
- 2. <b> Representation learning. </b> How does the structure and order of learning opportunities –termed curricula in education and machine learning– affect learning outcomes and neural representations? </summary> 
+ <b> Learning curricula. </b> How does the learning context shape what we come to know and how we represent it? </summary> 
   <br>
-  My research has charted how balancing conceptual and strategic complexity during training can lead to accelerated and more successful learning (Dumbalska et al., 2023). As part of this line of work, I have collected large-scale data from >15,000 participants world-wide charting learning progression on a gamified task (<a href="/projects/escape-room-demo/index.html">demo</a>).
+  My work charts how the order in which we encounter information shapes what we come to understand. To study this at scale, I built a gamified escape-room task (<a href="/projects/escape-room-demo/index.html">demo</a>) and, in collaboration with educational non-profits, collected data from over 40,000 young people worldwide. This showed that carefully sequencing the complexity of practice can accelerate learning. Alongside this, I have compared how humans and artificial neural networks represent and structure knowledge.
   <br> 
   <ul>
-  <li><b>Dumbalska, T.</b>, Yuen, K., Bhatti, A., Ali, I., Zaneva, M., Sandbrink, K., & Summerfield, C. (2025). Curriculum learning for complex tasks. (<a href="https://osf.io/preprints/psyarxiv/qd8w4_v1">Preprint</a>). </li>
+  <li><b>Dumbalska, T.</b>, Yuen, K., Bhatti, A., Ali, I., Zaneva, M., Sandbrink, K., & Summerfield, C. (2026). Curriculum learning for complex tasks. eLife. (<a href="https://elifesciences.org/reviewed-preprints/112526">Link</a>) </li>
   <ul><li>Here, we show that organizing learning opportunities such that participants can practice new concepts in increasingly complex mental operations boosts learning progress and outcomes.</li></ul><br>
-  <li><b>Dumbalska, T.</b>, Bhatti, A., Ali, I., & Summerfield, C. (2023). How do humans learn concepts and strategies? Computational Cognitive Neuroscience. (<a href="https://2023.ccneuro.org/proceedings/0000602.pdf?s=W&pn=1520">Conference Proceedings</a>). </li><br>
-  <li>Nelli, S., Braun, L., <b>Dumbalska, T.</b>, Saxe, A., & Summerfield, C. (2023). Neural knowledge assembly in humans and neural networks. Neuron, 111(9), 1504-1516. (<a href="https://www.cell.com/neuron/fulltext/S0896-6273%2823%2900118-6">Open access link</a>)</li><br>
-  <li>Flesch, T., Juechems, K., <b>Dumbalska, T.</b>, Saxe, A., & Summerfield, C. (2022). Orthogonal representations for robust context-dependent task performance in brains and neural networks. Neuron, 110(7), 1258-1270. (<a href="https://www.cell.com/neuron/fulltext/S0896-6273(22)00005-8">Open access link</a>) </li>
+  <li>Nelli, S., Braun, L., <b>Dumbalska, T.</b>, Saxe, A., & Summerfield, C. (2023). Neural knowledge assembly in humans and neural networks. Neuron, 111(9), 1504-1516. (<a href="https://www.cell.com/neuron/fulltext/S0896-6273%2823%2900118-6">Link</a>)</li><br>
+  <li>Flesch, T., Juechems, K., <b>Dumbalska, T.</b>, Saxe, A., & Summerfield, C. (2022). Orthogonal representations for robust context-dependent task performance in brains and neural networks. Neuron, 110(7), 1258-1270. (<a href="https://www.cell.com/neuron/fulltext/S0896-6273(22)00005-8">Link</a>) </li>
   </ul>
 </details></p>
 <p><details> 
  <summary>
- 3. <b> Value alignment. </b> How do we ensure that artificial agents' objectives are aligned with human values? </summary>
+ <b> The digital world and AI. </b> What are the psychological impacts of our digital context? </summary>
 <br>
-  A strand of my current work investigates value alignment in open source reward models and the potential influence of human biases on alignment across standard RLHF settings and human-AI interactions.
+  We spend much of our time in front of screens. My research seeks to understand how what we do online impacts our motivation, learning and wellbeing. I use experiments to investigate how different kinds of websites, mobile apps, and interactions with AI chatbots affect our willingness to exert effort and our learning success. My work also studies AI systems themselves, examining how human values and biases find their way into the models that guide AI behavior.
  <br>
  <ul>
-  <li>Christian, B., Thompson, J.A.F., Elle, Adam, V., Kirk, H.R., Summerfield, C., & <b>Dumbalska, T.</b>  (2026).Reward Models Inherit Value Biases from Pretraining. International Conference on Learning Representations (ICLR). (<a href="https://arxiv.org/abs/2601.20838">Preprint</a>)</li><br>
-  <li>Christian, B., Kirk, H.R., Thompson, J.A.F., Summerfield, C., <b>Dumbalska, T.</b> (In press). Reward Model Interpretability Via Optimal and Pessimal Tokens. <i>In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025). </i> (<a href="https://dl.acm.org/doi/10.1145/3715275.3732068">Open access link</a>) </li> </ul>
+  <li>Liu, G., Christian, B., <b>Dumbalska, T.</b>, Bakker, M. A., & Dubey, R. (2026). AI Assistance Reduces Persistence and Hurts Independent Performance. Conference on Language Modeling (COLM). (<a href="https://openreview.net/forum?id=u9VvZd6CiY">Link</a>)</li><br>
+  <li>Kirk, H.R., Davidson, H., Saunders, E., Luettgau, L., ..., <b>Dumbalska, T.</b>, Hale, S., & Summerfield, C. (2026). Neural Steering Vectors Reveal Dose and Exposure-Dependent Impacts of Human-AI Relationships. Under review at Nature.</li><br>
+  <li>Christian, B., Thompson, J.A.F., Elle, Adam, V., Kirk, H.R., Summerfield, C., & <b>Dumbalska, T.</b> (2026). Reward Models Inherit Value Biases from Pretraining. International Conference on Learning Representations (ICLR). (<a href="https://arxiv.org/abs/2601.20838">Link</a>)</li>
+ </ul>
  </details></p>
  <p><details>
+ <summary><b> Mental health. </b> How does the social context shape mental health? </summary>  <br>
+  I collaborate with colleagues to investigate socioeconomic gaps in mental health and understand the mechanisms through which the social environment can shape young people's wellbeing.
+  <br>
+  <ul>
+  <li>Zaneva, M., <b>Dumbalska, T.</b>, Reeves, A., & Bowes, L. (2026). Hunger as an uncontroversial predictor of poor adolescent mental health: evidence from a multiverse analysis of 410,213 adolescents across 79 countries. Journal of Child Psychology and Psychiatry. (<a href="https://osf.io/3g2yw_v1">Link</a>)</li><br>
+  <li>Zaneva, M., <b>Dumbalska, T.</b>, Reeves, A., & Bowes, L. (2024). What do we mean when we talk about socioeconomic status? Implications for measurement, mechanisms and interventions from a critical review on adolescent mental health. General Psychiatry, 37(6), e101455. (<a href="https://gpsych.bmj.com/content/gpsych/37/6/e101455.full">Link</a>)</li>
+  </ul>
+</details></p>
+<p><details>
  <summary>
- 4. <b> Open Science. </b> How do we enhance the transparency and reproducibility of scientific research? </summary>  <br>
-  I am actively involved in the open science movement and initiatives to increase the transparency and reproducibility of research results. I have contributed to two pieces of written evidence for policy on Reproducibility and Research Integrity for the UK Government (entries 20210930 and EGYJ106500), several open science publications and computational reproducibility projects.
+ <b> Open science. </b> How do we enhance the transparency and reproducibility of scientific research? </summary>  <br>
+  I am actively involved in the open science movement and initiatives to increase the transparency and reproducibility of research results. I have contributed to two pieces of written evidence for policy on Reproducibility and Research Integrity for the UK Parliament, several open science publications and computational reproducibility projects.
   <br> 
   <ul>
-  <li>Brodeur, A., …, Dumbalska, T., … et al. (2026). Computational Reproducibility and Robustness of Empirical Economics and Political Science Research Between 2022 and 2023. Nature (in press). (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12270267/">Open access link</a>)</li><br>
-  <li>Röseler, L., ... <b>Dumbalska, T.</b>, et al. (2024). The replication database: documenting the replicability of psychological science. Journal of Open Psychology Data, 12(8), 1-23. (<a href="https://eprints.bbk.ac.uk/id/eprint/54253/1/jopd.pdf">Submitted version</a>)</li><br>
-  <li>Parsons, S.,... <b>Dumbalska, T.</b>, et al. (2022). A Community-Sourced Glossary of Open Scholarship Terms. Nature Human Behaviour. (<a href="https://nantes-universite.hal.science/hal-03596508/document">Submitted version</a>)</li><br>
-  <li>Evans, T.,… & <b>Dumbalska, T.</b>, et al. (2021). A network of change: Three priorities requiring united action on research integrity. BMC Research Notes. (<a href="https://link.springer.com/article/10.1186/s13104-022-06026-y">Open access link</a>)</li>
-  </ul>
+  <li>Brodeur, A., ..., <b>Dumbalska, T.</b>, ..., et al. (2026). Reproducibility and robustness of economics and political science research. Nature, 652(8108), 151-156. (<a href="https://www.nature.com/articles/s41586-026-10251-x">Link</a>)</li><br>
+  <li>Röseler, L., ..., <b>Dumbalska, T.</b>, et al. (2024). The replication database: documenting the replicability of psychological science. Journal of Open Psychology Data, 12(8), 1-23. (<a href="https://eprints.bbk.ac.uk/id/eprint/54253/1/jopd.pdf">Submitted version</a>)</li><br>
+  <li>Parsons, S., ..., <b>Dumbalska, T.</b>, et al. (2022). A Community-Sourced Glossary of Open Scholarship Terms. Nature Human Behaviour, 6(3), 312-318. (<a href="https://nantes-universite.hal.science/hal-03596508/document">Submitted version</a>)</li>
+ </ul>
 </details>
 </p>
