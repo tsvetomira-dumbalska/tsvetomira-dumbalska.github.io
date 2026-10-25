@@ -21,7 +21,7 @@ Throughout, I combine large-scale experiments with computational modeling and ma
  <br>
   My work has provided evidence on the computational mechanisms underlying context-dependent judgments, demonstrating that the influence of perceptual distractors and decoy consumer products may arise due to a shared, efficient computational principle – neural adaptation (Dumbalska et al., 2022; Dumbalska et al., 2020), and that reference effects owe to changes in both how we experience (perception) and how we evaluate incoming information (judgment; Dumbalska & Smithson, 2024).
   <br>
-    <ul><li><b>Dumbalska, T.</b>, & Smithson, H. E. (2024). Reference dependence arises due to contextual shifts in both perception and judgment. Under review at Communications Psychology. (<a href="https://osf.io/preprints/psyarxiv/qpy2w">Preprint</a>)</li> <br>
+  <ul><li><b>Dumbalska, T.</b>, & Smithson, H. E. (2024). Reference dependence arises due to contextual shifts in both perception and judgment. Under review at Communications Psychology. (<a href="https://osf.io/preprints/psyarxiv/qpy2w">Preprint</a>)</li> <br>
   <li><b>Dumbalska, T.</b>, Rudzka, K., Smithson, H. E., & Summerfield, C. (2022). How do (perceptual) distracters distract? PLOS Computational Biology, 18(10), e1010609. (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010609">Link</a>) </li> <br>
   <li><b>Dumbalska, T.</b>, Li, V., Tsetsos, K., & Summerfield, C. (2020). A map of decoy influence in human multialternative choice. Proceedings of the National Academy of Sciences, 117(40), 25169-25178. (<a href="https://www.pnas.org/doi/full/10.1073/pnas.2005058117">Link</a>)</li>
    </ul>
@@ -33,8 +33,7 @@ Throughout, I combine large-scale experiments with computational modeling and ma
   My work charts how the order in which we encounter information shapes what we come to understand. To study this at scale, I built a gamified escape-room task (<a href="/projects/escape-room-demo/index.html">demo</a>) and, in collaboration with educational non-profits, collected data from over 40,000 young people worldwide. This showed that carefully sequencing the complexity of practice can accelerate learning. Alongside this, I have compared how humans and artificial neural networks represent and structure knowledge.
   <br> 
   <ul>
-  <li><b>Dumbalska, T.</b>, Yuen, K., Bhatti, A., Ali, I., Zaneva, M., Sandbrink, K., & Summerfield, C. (2026). Curriculum learning for complex tasks. eLife. (<a href="https://elifesciences.org/reviewed-preprints/112526">Link</a>) </li>
-  <ul><li>Here, we show that organizing learning opportunities such that participants can practice new concepts in increasingly complex mental operations boosts learning progress and outcomes.</li></ul><br>
+  <li><b>Dumbalska, T.</b>, Yuen, K., Bhatti, A., Ali, I., Zaneva, M., Sandbrink, K., & Summerfield, C. (2026). Curriculum learning for complex tasks. eLife. (<a href="https://elifesciences.org/reviewed-preprints/112526">Link</a>) </li><br>
   <li>Nelli, S., Braun, L., <b>Dumbalska, T.</b>, Saxe, A., & Summerfield, C. (2023). Neural knowledge assembly in humans and neural networks. Neuron, 111(9), 1504-1516. (<a href="https://www.cell.com/neuron/fulltext/S0896-6273%2823%2900118-6">Link</a>)</li><br>
   <li>Flesch, T., Juechems, K., <b>Dumbalska, T.</b>, Saxe, A., & Summerfield, C. (2022). Orthogonal representations for robust context-dependent task performance in brains and neural networks. Neuron, 110(7), 1258-1270. (<a href="https://www.cell.com/neuron/fulltext/S0896-6273(22)00005-8">Link</a>) </li>
   </ul>
