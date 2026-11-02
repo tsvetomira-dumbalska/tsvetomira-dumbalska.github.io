@@ -11,7 +11,7 @@ layout: default
 
 How does the context we find ourselves in shape what we perceive, choose, learn and want? This question recurs across the different themes of my research, from biases in decision making and the design of learning curricula to how we interact with the digital world.
 
-Throughout, I combine large-scale experiments with computational modeling and machine learning. I am committed to open and reproducible science, sharing data and code, and contributing to replication and reproducibility efforts. You can find a complete list of my publications on <a href="https://scholar.google.com/citations?user=GOZWbKAAAAAJ&hl=en">Google Scholar</a> and a selection of highlights under the headings below.
+Throughout, I combine large-scale experiments with computational modeling and machine learning. I am committed to open and reproducible science, sharing data and code, and contributing to replication and reproducibility efforts. You can find a complete list of my publications on <a href="https://scholar.google.com/citations?user=GOZWbKAAAAAJ">Google Scholar</a> and a selection of highlights under the headings below.
 
 
 <p>
