@@ -21,9 +21,9 @@ plainwhite:
   sitemap: true
   dark_mode: true
   social_links:
+    scholar: GOZWbKAAAAAJ
     email: tsvetomira.dumbalska@psy.ox.ac.uk
     osf: cnjr5
-    scholar: GOZWbKAAAAAJ
     github:  tsvetomira-dumbalska
 
   portfolio_image:  "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)

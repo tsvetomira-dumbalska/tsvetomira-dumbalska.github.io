@@ -3,6 +3,45 @@
 
 <head>
   {%- include head.html -%}
+  <style>
+    .social.about-footer {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.55rem;
+      flex-wrap: wrap;
+    }
+
+    .social.about-footer a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 2.1rem;
+      height: 2.1rem;
+    }
+
+    .social.about-footer li {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+    }
+
+    .social.about-footer i {
+      display: inline-block;
+      font-size: 1.75rem;
+      line-height: 1;
+      vertical-align: middle;
+      text-align: center;
+    }
+
+    .social.about-footer i.ai-google-scholar {
+      font-size: 1.85rem;
+      width: 1.4em;
+      transform: translateY(-1px);
+    }
+  </style>
 </head>
 
 {%- if site.plainwhite.condensed_mobile contains page.layout -%}
@@ -35,6 +74,13 @@
       {% capture footer %}
       {%- if site.plainwhite.social_links != '' -%}
       <ul class="social about-footer {{condensed_class}}">
+        {%- if site.plainwhite.social_links.scholar -%}
+        <a href="https://scholar.google.com/citations?user={{ site.plainwhite.social_links.scholar }}" target="_blank">
+          <li>
+            <i class="ai ai-google-scholar"></i>
+          </li>
+        </a>
+        {%- endif -%}
         {%- if site.plainwhite.social_links.github -%}
         <a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank">
           <li>
@@ -137,13 +183,6 @@
         <a href="https://osf.io/{{ site.plainwhite.social_links.osf }}" target="_blank">
           <li>
             <i class="ai ai-osf"></i>
-          </li>
-        </a>
-        {%- endif -%}
-        {%- if site.plainwhite.social_links.scholar -%}
-        <a href="https://scholar.google.com/citations?user={{ site.plainwhite.social_links.scholar }}" target="_blank">
-          <li>
-            <i class="ai ai-google-scholar"></i>
           </li>
         </a>
         {%- endif -%}
